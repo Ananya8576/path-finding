@@ -1,5 +1,7 @@
 # path-finding
 
+Assignment under Prof. Darren for the module: CS3243 
+
 Describing the movement of each piece, we are finding the path from the star to goal position for the King considering other pieces are threatening some positions. Also, some positions are blocked by obstacles so the route of the king must avoid these obstacles and threatened positions
 
 We find the neighbors from each position and move to the most optimal one
